@@ -1,4 +1,4 @@
-# hey there, i'm shreya 👋
+# hey there, i'm shreya 🏵
 
 ❈ cs + math @ university of toronto  
 ❈ full-stack developer and designer who loves turning messy problems into clean, accessible products  
