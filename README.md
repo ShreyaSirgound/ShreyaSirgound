@@ -1,6 +1,6 @@
 # hey there, i'm shreya 🏵
 
-❈ cs + math @ university of toronto  
+❈ studying cs + math @ university of toronto  
 ❈ full-stack developer and designer who loves turning messy problems into clean, accessible products  
 ❈ seeking fall 2026 swe and product internships 
 
