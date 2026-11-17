@@ -2,7 +2,7 @@
 
 ❈ studying cs + math @ university of toronto  
 ❈ full-stack developer and designer who loves turning messy problems into clean, accessible products  
-❈ seeking summer 2027 swe and product internships 
+<!--❈ seeking summer 2027 swe and product internships-->
 
 ## what i build with
 `TypeScript` `React` `Java` `Python` `JavaScript`  
